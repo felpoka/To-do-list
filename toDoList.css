@@ -1,0 +1,32 @@
+.todo-list {
+    width: 300px;
+    margin: 0 auto;
+    padding: 100px;
+    border: 10px solid #ccc;
+    border-radius: 5px;
+}
+div{
+    background: rgb(99, 187, 255);
+}
+#task {
+    width: calc(100% - 80px);
+    text-align: center;
+    margin-left: 25px;
+    padding: 5px;
+}
+button {
+    padding: 5px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 5px 0;
+}
+h2 {
+    text-align: center;
+    height: px;
+}
